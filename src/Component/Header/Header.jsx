@@ -6,15 +6,15 @@ import { Nav, Navbar } from "react-bootstrap";
 export default function Header() {
     return (
         <div className="Header">
-            <Navbar collapseOnSelect expand="lg" variant="dark">
-                <Navbar.Brand href=" ">
+            <Navbar className="nav" collapseOnSelect expand="lg" variant="dark">
+                <Navbar.Brand href="/">
                     <img src={logo} alt="IEEE" width="200"></img>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="mr-auto"></Nav>
                     <Nav>
-                        <Nav.Link href=" ">Home</Nav.Link>
+                        <Nav.Link href="/">Home</Nav.Link>
                         <Nav.Link href="https://ieeeditu.org.in">
                             About
                         </Nav.Link>

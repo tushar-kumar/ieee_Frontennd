@@ -6,13 +6,20 @@ export default function Cloud_Workshop() {
     return (
         <div>
             <div className="col-md-12">
-                <div className="a">
-                    <h2 className="mb-3">#1.Cloud Workshop</h2>
-                </div>
+                <center>
+                    <div className="a">
+                        <h2 className="mb-3">#1.Cloud Workshop</h2>
+                    </div>
 
-                <div className="a">
-                    <img src={Cloud} alt="" className="img-fluid" />
-                </div>
+                    <div className="a">
+                        <img
+                            src={Cloud}
+                            alt=""
+                            className="img-fluid"
+                            width="600px"
+                        />
+                    </div>
+                </center>
                 <br />
                 <p>
                     Description:Cloud Computing is the use of hardware and
@@ -132,6 +139,5 @@ export default function Cloud_Workshop() {
             </div> */}
             </div>
         </div>
-        // </div>
     );
 }
