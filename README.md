@@ -1,4 +1,6 @@
+# IEEE Frontend Team
 
+## Steps Seting Up an Environment for project
 1. Type  -  "npx create-react-app ieee_event_frontend"  in terminal.<br>
 
 2. Delete everthing in "ieee_event_frontend" folder excepet "node_modules" it is important to run app.<br>
