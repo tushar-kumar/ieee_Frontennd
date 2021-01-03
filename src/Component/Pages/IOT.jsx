@@ -23,7 +23,7 @@ export default function IOT() {
                 </center>
                 <br />
                 <p>
-                    Description:The Internet of Things, or IoT, refers to the
+                    Description: The Internet of Things, or IoT, refers to the
                     billions of physical devices around the world that are now
                     connected to the internet, all collecting and sharing data.
                     Thanks to the arrival of super-cheap computer chips and the
