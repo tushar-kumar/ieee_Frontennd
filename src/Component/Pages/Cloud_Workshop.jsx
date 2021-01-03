@@ -22,7 +22,7 @@ export default function Cloud_Workshop() {
                 </center>
                 <br />
                 <p>
-                    Description:Cloud Computing is the use of hardware and
+                    Description: Cloud Computing is the use of hardware and
                     software to deliver a service over a network (typically the
                     Internet). With cloud computing, users can access files and
                     use applications from any device that can access the
