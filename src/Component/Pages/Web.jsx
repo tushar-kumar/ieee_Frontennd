@@ -23,7 +23,7 @@ export default function Web_Dev() {
                 </center>
                 <br />
                 <p>
-                    Description:Web development is the work involved in
+                    Description: Web development is the work involved in
                     developing a website for the Internet or an intranet. Web
                     development can range from developing a simple single static
                     page of plain text to complex web-based internet
