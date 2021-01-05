@@ -33,7 +33,7 @@ export default function Linux_Bootcamp() {
                     and learnings.
                 </p>
 
-                <h3>Topics Covered:</h3>
+                <h3>Topics Covered: </h3>
                 <ul>
                     <li>Introduction to Linux and Open source software.</li>
                     <li>Top issues to consider when migrating to Linux.</li>
@@ -50,7 +50,7 @@ export default function Linux_Bootcamp() {
                     The hands on session will help the participants to realize
                     the practical aspects of Linux Operaring System.
                 </p>
-                <h3>Eligibility:</h3>
+                <h3>Eligibility: </h3>
                 <p>Anybody and everybody is welcome.</p>
                 <h3>Prerequisite:</h3>
                 <p>Basic knowledge about using Web & Internet</p>
@@ -60,7 +60,7 @@ export default function Linux_Bootcamp() {
                     <li>IEEE Member(Non CS): ₹ 50</li>
                     <li>Non IEEE Member: ₹ 80</li>
                 </ul>
-                <h3>Duration:</h3>
+                <h3>Duration: </h3>
                 <p>8 hours (4 hour per day)</p>
                 <h3>Certificate Provided:</h3>
                 <p>Yes</p>
@@ -79,7 +79,7 @@ export default function Linux_Bootcamp() {
                         Workshop In Between.
                     </li>
                 </ul>
-                <h3>Note:</h3>
+                <h3>Note: </h3>
                 <ul>
                     <li>
                         Relevant links will be sent via email after
