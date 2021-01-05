@@ -37,7 +37,7 @@ export default function Web_Dev() {
                     back-end developers deal with the servers.
                 </p>
 
-                <h3>Topics Covered:</h3>
+                <h3>Topics Covered: </h3>
                 <ul>
                     <li>Learn HTML,CSS</li>
                     <li>Geeting started with java script.</li>
@@ -45,7 +45,7 @@ export default function Web_Dev() {
                     <li>Working on servers by using nodejs.</li>
                     <li>Learn Php</li>
                 </ul>
-                <h3>Eligibility:</h3>
+                <h3>Eligibility: </h3>
                 <p>
                     Anybody and everybody is welcome. If you know nothing about
                     code or markup and want to get started in web development
@@ -69,7 +69,7 @@ export default function Web_Dev() {
                         node.js and Express
                     </li>
                 </ul>
-                <h3>Prerequisite:</h3>
+                <h3>Prerequisite: </h3>
                 <p>None</p>
                 <h3>Fee:</h3>
                 <ul>
