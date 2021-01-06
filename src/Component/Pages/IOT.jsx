@@ -47,7 +47,7 @@ export default function IOT() {
                     <li>Introduction to ESP 8266 module.</li>
                     <li>Introduction to GPRS and TCP/IP.</li>
                 </ul>
-                <h3>Eligibility:</h3>
+                <h3>Eligibility: </h3>
                 <p>
                     Anybody and everybody is welcome.Any Engineering student of
                     any year and any branch is eligible for this workshop.
@@ -70,12 +70,12 @@ export default function IOT() {
                         node.js and Express
                     </li>
                 </ul>
-                <h3>Prerequisite:</h3>
+                <h3>Prerequisite: </h3>
                 <p>
                     Basic of Electronics,Basic knowledge Programming Language
                     (like C).
                 </p>
-                <h3>Fee:</h3>
+                <h3>Fee: </h3>
                 <ul>
                     <li>IEEE Member(CS): ₹ 30</li>
                     <li>IEEE Member(Non CS): ₹ 40</li>
@@ -85,7 +85,7 @@ export default function IOT() {
                 <p>8 hours (4 hour per day)</p>
                 <h3>Certificate Provided:</h3>
                 <p>Yes</p>
-                <h3>Note:</h3>
+                <h3>Note: </h3>
                 <ul>
                     <li>
                         Relevant links will be sent via email after
