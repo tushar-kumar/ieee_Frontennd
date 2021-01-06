@@ -34,7 +34,7 @@ export default function Cyberdome() {
                     are becoming more innovative.
                 </p>
                 <p>
-                    <h3>Topics Covered:</h3>
+                    <h3>Topics Covered: </h3>
                     <ul>
                         <li>Fundamental of Ethical Hacking</li>
                         <li>Virtualization & System Cloning</li>
@@ -58,7 +58,7 @@ export default function Cyberdome() {
                         <li>Scripting</li>
                         <li>Database</li>
                     </ul>
-                    <h3>Prerequisite:</h3>
+                    <h3>Prerequisite: </h3>
                     <p>Basic knowledge of Linux.</p>
                     <h3>Fee:</h3>
                     <ul>
@@ -66,7 +66,7 @@ export default function Cyberdome() {
                         <li>IEEE Member(Non CS): ₹ 120</li>
                         <li>Non IEEE Member: ₹ 150</li>
                     </ul>
-                    <h3>Duration:</h3>
+                    <h3>Duration: </h3>
                     <p>16 hours (8 hour per day)</p>
                     <h3>Certificate Provided:</h3>
                     <p>Yes</p>
