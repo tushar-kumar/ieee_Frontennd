@@ -64,7 +64,7 @@ export default function Linux_Bootcamp() {
                 <p>8 hours (4 hour per day)</p>
                 <h3>Certificate Provided:</h3>
                 <p>Yes</p>
-                <h3>Certificate Policy:</h3>
+                <h3>Certificate Policy: </h3>
                 <ul>
                     <li>
                         Certificate of Merit for all the workshop participants.
