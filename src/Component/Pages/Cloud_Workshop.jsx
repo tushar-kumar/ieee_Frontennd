@@ -35,7 +35,7 @@ export default function Cloud_Workshop() {
                     transfer of data.
                 </p>
                 <p>
-                    <h3>Topics Covered:</h3>
+                    <h3>Topics Covered: </h3>
                     <ul>
                         <li>Introduction to Cloud Computing</li>
                         <li>SaaS, PaaS, IaaS models</li>
@@ -64,7 +64,7 @@ export default function Cloud_Workshop() {
                         <li>Virtualisation</li>
                         <li>Web Services And API.</li>
                     </ul>
-                    <h3>Prerequisite:</h3>
+                    <h3>Prerequisite: </h3>
                     <p>Database skills,Programming skills,Linux</p>
                     <h3>Fee:</h3>
                     <ul>
@@ -72,7 +72,7 @@ export default function Cloud_Workshop() {
                         <li>IEEE Member(Non CS): ₹ 80</li>
                         <li>Non IEEE Member: ₹ 100</li>
                     </ul>
-                    <h3>Duration:</h3>
+                    <h3>Duration: </h3>
                     <p>8 hours (Four hour per day)</p>
                     <h3>Certificate Provided:</h3>
                     <p>Yes</p>
