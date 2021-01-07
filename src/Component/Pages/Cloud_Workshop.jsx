@@ -53,7 +53,7 @@ export default function Cloud_Workshop() {
                             Serverless Architecture, API Gateway, Cognito etc
                         </li>
                     </ul>
-                    <h3>Eligibility:</h3>
+                    <h3>Eligibility: </h3>
                     <p>
                         Anybody interested in Cloud Computing Technologies, Web
                         Development, Site and Server administration.
