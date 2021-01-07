@@ -51,7 +51,7 @@ export default function Web_Dev() {
                     code or markup and want to get started in web development
                     then this will be good for you.
                 </p>
-                <h3>Skills you will gain:</h3>
+                <h3>Skills you will gain: </h3>
                 <ul>
                     <li>Discover the basics of how web browsers work</li>
                     <li>Discover how to write solid HTML</li>
@@ -77,7 +77,7 @@ export default function Web_Dev() {
                     <li>IEEE Member(Non CS): ₹ 50</li>
                     <li>Non IEEE Member: ₹ 80</li>
                 </ul>
-                <h3>Duration:</h3>
+                <h3>Duration: </h3>
                 <p>8 hours (4 hour per day)</p>
                 <h3>Certificate Provided:</h3>
                 <p>Yes</p>
