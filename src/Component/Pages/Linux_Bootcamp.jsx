@@ -52,7 +52,7 @@ export default function Linux_Bootcamp() {
                 </p>
                 <h3>Eligibility: </h3>
                 <p>Anybody and everybody is welcome.</p>
-                <h3>Prerequisite:</h3>
+                <h3>Prerequisite: </h3>
                 <p>Basic knowledge about using Web & Internet</p>
                 <h3>Fee:</h3>
                 <ul>
