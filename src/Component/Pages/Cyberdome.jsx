@@ -48,7 +48,7 @@ export default function Cyberdome() {
                         <li>Credit Card Frauds & Cases</li>
                         <li>Proxy Server & VPN Technologies</li>
                     </ul>
-                    <h3>Eligibility:</h3>
+                    <h3>Eligibility: </h3>
                     <p>All student are eligibile</p>
                     <h3>Skills you will gain:</h3>
                     <ul>
