@@ -62,9 +62,9 @@ export default function Cyberdome() {
                     <p>Basic knowledge of Linux.</p>
                     <h3>Fee:</h3>
                     <ul>
-                        <li>IEEE Member(CS): ₹ 100</li>
-                        <li>IEEE Member(Non CS): ₹ 120</li>
-                        <li>Non IEEE Member: ₹ 150</li>
+                        <li>IEEE Member(CS): ₹100</li>
+                        <li>IEEE Member(Non CS): ₹120</li>
+                        <li>Non IEEE Member: ₹150</li>
                     </ul>
                     <h3>Duration: </h3>
                     <p>16 hours (8 hour per day)</p>
