@@ -73,7 +73,7 @@ export default function Web_Dev() {
                 <p>None</p>
                 <h3>Fee:</h3>
                 <ul>
-                    <li>IEEE Member(CS): ₹ 30</li>
+                    <li>IEEE Member(CS): ₹30</li>
                     <li>IEEE Member(Non CS): ₹ 50</li>
                     <li>Non IEEE Member: ₹ 80</li>
                 </ul>
