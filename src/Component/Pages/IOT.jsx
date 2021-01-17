@@ -120,6 +120,6 @@ export default function IOT() {
                 </div>
             </div>
         </div>
-        // </div>
+       
     );
 }
