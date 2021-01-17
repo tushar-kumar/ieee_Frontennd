@@ -98,6 +98,5 @@ export default function Linux_Bootcamp() {
                 </h1>
             </div>
         </div>
-        // </div>
     );
 }
