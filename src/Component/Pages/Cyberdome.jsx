@@ -68,7 +68,7 @@ export default function Cyberdome() {
                     </ul>
                     <h3>Duration: </h3>
                     <p>16 hours (8 hour per day)</p>
-                    <h3>Certificate Provided:</h3>
+                    <h3>Certificate Provided: </h3>
                     <p>Yes</p>
                     <h3>Note:</h3>
                     <ul>
