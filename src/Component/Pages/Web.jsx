@@ -120,6 +120,5 @@ export default function Web_Dev() {
                 </div>
             </div>
         </div>
-        // </div>
     );
 }
